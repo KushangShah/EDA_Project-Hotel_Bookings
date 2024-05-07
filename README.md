@@ -1,6 +1,8 @@
 # EDA_Project-Hotel_Bookings
 ## Exploratory Data Analysis of Hotel Bookings
 
+![Hotel](https://github.com/KushangShah/EDA_Project-Hotel_Bookings/assets/124147164/0d9fff9c-4fb5-4420-99ce-39340166eabe)
+![Booking](https://github.com/KushangShah/EDA_Project-Hotel_Bookings/assets/124147164/fccfc230-332a-4551-860b-05538d5a8653)
 
 ## Data Overview
 The dataset comprises information about hotel bookings, including various attributes such as booking dates, customer demographics, booking channels, and reservation details. It encompasses both hotel types: resorts and city hotels.
@@ -71,3 +73,12 @@ total_of_special_requests: Number of special requests made by the guest (e.g., t
 reservation_status: Reservation last status (e.g., Check-Out, Canceled).
 
 reservation_status_date: Date at which the last status was set.
+
+
+## So By all mean {Conclusion}:
+
+By leveraging the insights gained from the exploratory data analysis and visualization techniques, the client can make data-driven decisions to optimize operations, enhance customer satisfaction, and maximize revenue. By focusing on pricing optimization, customer experience enhancement, diversification of dining options, improvement of marketing strategies, and optimization of booking processes, the client can achieve their business objectives effectively and position themselves competitively in the hospitality industry.
+
+With all this lets begine with Data Analysis
+
+![analysis](https://github.com/KushangShah/EDA_Project-Hotel_Bookings/assets/124147164/3a0d0b42-4321-4626-ba47-99de012d14d9)
