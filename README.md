@@ -1,6 +1,13 @@
 # EDA_Project-Hotel_Bookings
 ## Exploratory Data Analysis of Hotel Bookings
 
+
+## Data Overview
+The dataset comprises information about hotel bookings, including various attributes such as booking dates, customer demographics, booking channels, and reservation details. It encompasses both hotel types: resorts and city hotels.
+
+
+## Hotel Booking Data description:
+
 hotel: Name or identifier of the hotel(City or resort).
 
 is_canceled: Binary indicator if the booking was canceled (1) or not (0).
@@ -46,3 +53,21 @@ assigned_room_type: Type of room assigned to the guest.
 booking_changes: Number of changes made to the booking.
 
 deposit_type: Type of deposit made (e.g., No Deposit, Non Refund, Refundable).
+
+agent: ID of the travel agency that made the booking.
+
+company: ID of the company/entity that made the booking or is responsible for payment.
+
+days_in_waiting_list: Number of days the booking was in the waiting list before it was confirmed to the guest.
+
+customer_type: Type of booking (e.g., Contract, Group, Transient).
+
+adr: Average Daily Rate, the average rental income per paid occupied room in a given time period.
+
+required_car_parking_spaces: Number of car parking spaces requested by the guest.
+
+total_of_special_requests: Number of special requests made by the guest (e.g., twin bed, high floor).
+
+reservation_status: Reservation last status (e.g., Check-Out, Canceled).
+
+reservation_status_date: Date at which the last status was set.
