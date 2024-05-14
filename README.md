@@ -1,4 +1,4 @@
-# EDA_Project-Hotel_Bookings
+# EDA_Project-Hotel_BookingS
 ## Exploratory Data Analysis of Hotel Bookings
 
 ![Hotel](https://github.com/KushangShah/EDA_Project-Hotel_Bookings/assets/124147164/0d9fff9c-4fb5-4420-99ce-39340166eabe)
