@@ -1,17 +1,17 @@
 
 <!-- Hotel Booking eda project readme.me file -->
 
+
 <!-- About AlmaBetter -->
 <div align='center'>
-    <img src='images/almabetter_logo.jpeg' href='https://www.almabetter.com/' alt='' width="150" height='100'>
+    <a href='https://www.almabetter.com/'>
+        <img height='80px' src='images/almabetter_logo.jpeg'
+    </a>
 </div>
 
-<div align='center'>
-    <img src='images/Alma_Better_Logo.webp' alt='' width='100' height='50'>
-</div>
 
-<!-- <h1 align='center'>AlmaBetter</h1> -->
-<h5 align='center'>EDA PROJECT</h5>
+<h3 align='center'>--: AlmaBetter :--</h3>
+<h5 align='center'>--: EDA PROJECT :--</h5>
 
 <br><br>
 <!-- Title -->
@@ -109,3 +109,14 @@
 </details>
 
 ---
+
+<details>
+<summary>
+    Main Library to be used
+</summary>
+    <p>
+        NumPy for computationally efficient operations.<br>
+        Pandas for data manipulation, aggregation.<br>
+        Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable.
+    </p>
+</details>
