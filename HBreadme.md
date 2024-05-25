@@ -1,15 +1,29 @@
 
 <!-- Hotel Booking eda project readme.me file -->
 
+<!-- About AlmaBetter -->
+<div align='center'>
+    <img src='images/almabetter_logo.jpeg' href='https://www.almabetter.com/' alt='' width="150" height='100'>
+</div>
+
+<div align='center'>
+    <img src='images/Alma_Better_Logo.webp' alt='' width='100' height='50'>
+</div>
+
+<!-- <h1 align='center'>AlmaBetter</h1> -->
+<h5 align='center'>EDA PROJECT</h5>
+
+<br><br>
 <!-- Title -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=5500&pause=900&color=8E7CC3&center=true&random=false&width=600&lines=Hotel+Booking+(Exploratory+Data+Analysis)" alt="Typing SVG" /></a>
 </p>
 <br>
 
-<div align="left">
-  <img src="images/Hotel.jpeg" alt="" width="300" height="200">
+<div align="center">
+  <img src="images/Hotel.jpeg" alt="" width="300" height="200">  <img src='images/Booking.jpeg' alt='' width='300' height='200'>
 </div>
+
 
 <br>
 <!-- content -->
