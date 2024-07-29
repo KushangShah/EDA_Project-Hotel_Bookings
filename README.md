@@ -3,18 +3,15 @@
 
 
 <!-- About AlmaBetter -->
-<div align='center'>
+<div align='left'>
     <a href='https://www.almabetter.com/'>
-        <img height='80px' src='images/almabetter_logo.jpeg'
+        <img height='30px' src='images/almabetter_logo.jpeg'
     </a>
 </div>
 
-<div align='center'>
+<div align='left'>
     <a href='https://www.almabetter.com/'>
-        AlmaBetter -
-    </a>
-    <a href='https://github.com/KushangShah/EDA_Project-Hotel_Bookings/blob/main/EDAProject_HotelBookings.ipynb'>
-        EDA PROJECT
+        AlmaBetter
     </a>
 </div>
 
@@ -31,6 +28,13 @@
   <img src="images/Hotel.jpeg" alt="" width="300" height="200">  <img src='images/Booking.jpeg' alt='' width='300' height='200'>
 </div>
 
+<br>
+<div align='left'>
+    <a href='https://github.com/KushangShah/EDA_Project-Hotel_Bookings/blob/main/EDAProject_HotelBookings.ipynb'>
+        EDA PROJECT
+    </a>
+</div>
+<br>
 
 <!-- Table of content -->
 ## Table of Contant
